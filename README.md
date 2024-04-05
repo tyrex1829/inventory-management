@@ -1,3 +1,9 @@
+# Live Link 
+
+https://inventory-mngmnt.vercel.app/
+
+# Description 
+
 A inventory management we app to create your shop's inventory. 
 
 I have modified this app, Now you can also add price and expiry date of your product, And you can update the item's details(quantity, price and expiry date).
